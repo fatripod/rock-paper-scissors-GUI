@@ -36,12 +36,12 @@ A feature-rich, terminal-based Rock Paper Scissors game with ASCII art celebrati
 1. **Download the game:**
    ```bash
    git clone https://github.com/fatripod/rock-paper-scissors-game.git
-   cd rock-paper-scissors-game
+   cd rock-paper-scissors-GUI
    ```
 
 2. **Run the game:**
    ```bash
-   python rock_paper_scissors.py
+   python rock_paper_scissors_gui.py
    ```
 
 3. **Start playing!** 🎯
